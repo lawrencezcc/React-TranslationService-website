@@ -1,14 +1,15 @@
 # React-Translation Service website
 **The Website** develop functions such as
 
-    •regular weather pushing and notifications
-    •sharing real-time photos with other users to advise weather conditions in different locations
-    •finding nearby activities according to current weather conditions
+    •ordering translation services between diverse languages with different express methods
+    •adding order to cart
+    •uploading documents and making payment
+    •online consultation 
     
 **Features**  
 
-    •using instant chat to require destination’s weather conditions
-    •calculating footsteps using sensor of mobiles 
+    •React framework
+    •responsive design (Bootstrap)
 
 **The Web Server** utilizes Amazon Web Service(EC2, S3, Route53, Elastic Beanstalk)
 
