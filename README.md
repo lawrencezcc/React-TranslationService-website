@@ -16,7 +16,8 @@
 **The Back-end** language utilizes Python.
 
 # Screenshots of The Website
-#### • `Website intial screen`
+#### • `Website intial screen` 
+<img src="./img/screenshots/1.png" width="640" height="360"/>
 
 
 
