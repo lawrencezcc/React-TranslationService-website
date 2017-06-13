@@ -41,8 +41,10 @@
 <img src="./img/screenshots/7.png" width="640" height="360"/>
 
 # Mobile Version of the Web App
-#### • `Mobile intial screen`
+#### • `Mobile intial screen 1`
 <img src="./img/screenshots/m1.png" width="375" height="667"/>
+
+#### • `Mobile intial screen 2`
 <img src="./img/screenshots/m11.png" width="375" height="667"/>
 
 #### • `Mobile example case of marriage certificate`
@@ -51,8 +53,10 @@
 #### • `Choose the number of the translations`
 <img src="./img/screenshots/m3.png" width="375" height="667"/>
 
-#### • `Choose a plan with a specific express method`
+#### • `Choose a plan with a specific express method 1`
 <img src="./img/screenshots/m4.png" width="375" height="667"/>
+
+#### • `Choose a plan with a specific express method 2`
 <img src="./img/screenshots/m41.png" width="375" height="667"/>
 
 #### • `Choose the number of hardcopies`
@@ -61,9 +65,13 @@
 #### • `Add the order to cart`
 <img src="./img/screenshots/m6.png" width="375" height="667"/>
 
-#### • `Check the cart and Checkout`
+#### • `Check the cart and Checkout 1`
 <img src="./img/screenshots/m7.png" width="375" height="667"/>
+
+#### • `Check the cart and Checkout 2`
 <img src="./img/screenshots/m71.png" width="375" height="667"/>
+
+#### • `Check the cart and Checkout 3`
 <img src="./img/screenshots/m72.png" width="375" height="667"/>
 
 #### • `Make a payment`
