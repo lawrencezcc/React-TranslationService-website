@@ -53,10 +53,10 @@
 #### • `Choose the number of the translations`
 <img src="./img/screenshots/m3.png" width="375" height="667"/>
 
-#### • `Choose a plan with a specific express method 1`
+#### • `Choose a plan with a specific express method screen 1`
 <img src="./img/screenshots/m4.png" width="375" height="667"/>
 
-#### • `Choose a plan with a specific express method 2`
+#### • `Choose a plan with a specific express method screen 2`
 <img src="./img/screenshots/m41.png" width="375" height="667"/>
 
 #### • `Choose the number of hardcopies`
@@ -65,13 +65,13 @@
 #### • `Add the order to cart`
 <img src="./img/screenshots/m6.png" width="375" height="667"/>
 
-#### • `Check the cart and Checkout 1`
+#### • `Check the cart and Checkout screen 1`
 <img src="./img/screenshots/m7.png" width="375" height="667"/>
 
-#### • `Check the cart and Checkout 2`
+#### • `Check the cart and Checkout screen 2`
 <img src="./img/screenshots/m71.png" width="375" height="667"/>
 
-#### • `Check the cart and Checkout 3`
+#### • `Check the cart and Checkout screen 3`
 <img src="./img/screenshots/m72.png" width="375" height="667"/>
 
 #### • `Make a payment`
