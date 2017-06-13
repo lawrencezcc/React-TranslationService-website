@@ -4,7 +4,7 @@
     •ordering translation services between diverse languages with different express methods
     •adding order to cart
     •uploading documents and making payment
-    •online consultation 
+    •online consultation 
     
 **Features**  
 
