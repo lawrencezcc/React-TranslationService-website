@@ -19,7 +19,26 @@
 #### • `Website intial screen` 
 <img src="./img/screenshots/1.png" width="640" height="360"/>
 
+#### • `Website example case of birthday certificate`
+<img src="./img/screenshots/2birth.png" width="640" height="360"/>
 
+#### • `Website example case of drive's license`
+<img src="./img/screenshots/2drive.png" width="640" height="360"/>
+
+#### • `Choose a plan with a specific express method`
+<img src="./img/screenshots/3.png" width="640" height="360"/>
+
+#### • `Choose the number of hardcopies`
+<img src="./img/screenshots/4.png" width="640" height="360"/>
+
+#### • `Add the order to cart`
+<img src="./img/screenshots/5.png" width="640" height="360"/>
+
+#### • `Check the cart and Checkout`
+<img src="./img/screenshots/6.png" width="640" height="360"/>
+
+#### • `Make a payment`
+<img src="./img/screenshots/7.png" width="640" height="360"/>
 
 # License
    Copyright {2017} {Liangchen Zhou}
