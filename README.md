@@ -40,6 +40,15 @@
 #### • `Make a payment`
 <img src="./img/screenshots/7.png" width="640" height="360"/>
 
+# Mobile Version of the Web App
+#### • `Mobile intial screen`
+<img src="./img/screenshots/m1.png" width="375" height="667"/>
+
+#### • `Mobile example case of marriage certificate`
+<img src="./img/screenshots/m2.png" width="375" height="667"/>
+
+
+
 # License
    Copyright {2017} {Liangchen Zhou}
    
